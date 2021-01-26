@@ -13,4 +13,4 @@ Project created to do a Counter which englobes concepts about Proxy Objects, Clo
 
 - LinkedIn: [http://www.linkedin.com/in/pmarcosfelipe](http://www.linkedin.com/in/pmarcosfelipe)<br>
 
-Copyright @ 2019 [Marcos Felipe](http://www.linkedin.com/in/pmarcosfelipe).<br>
+Copyright @ 2021 [Marcos Felipe](http://www.linkedin.com/in/pmarcosfelipe).<br>
